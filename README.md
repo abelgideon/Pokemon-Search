@@ -20,11 +20,11 @@ This application was built as part of a freeCodeCamp course on JavaScript Algori
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/abelgideon/Pokemon-Search-App.git
+   git clone https://github.com/abelgideon/Pokemon-Search.git
    ```
 2. Navigate to the project directory: 
    ```bash 
-   cd Pokemon-Search-App
+   cd Pokemon-Search
    ```
    
 ### Usage
