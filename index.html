@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pokemon Search App</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1>Pokemon Search</h1>
+    <input id="search-input" type="text" required />
+    <button id="search-button">Search</button>
+    <div id="image"></div>
+    <div class="info">
+      <p id="pokemon-name"></p>
+      <p id="pokemon-id"></p>
+      <p id="weight"></p>
+      <p id="height"></p>
+    </div>
+    <div id="types"></div>
+    <div class="stats">
+      <table id="table">
+        <thead>
+          <tr>
+            <th>Base</th>
+            <th>Stats</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>HP</td>
+            <td id="hp"></td>
+          </tr>
+          <tr>
+            <td>Attack</td>
+            <td id="attack"></td>
+          </tr>
+          <tr>
+            <td>Defense</td>
+            <td id="defense"></td>
+          </tr>
+          <tr>
+            <td>Sp. Attack</td>
+            <td id="special-attack"></td>
+          </tr>
+          <tr>
+            <td>Sp. Defense</td>
+            <td id="special-defense"></td>
+          </tr>
+          <tr>
+            <td>Speed</td>
+            <td id="speed"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
