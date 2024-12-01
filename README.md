@@ -19,11 +19,11 @@ This application was built as part of a freeCodeCamp course on JavaScript Algori
 ### Installation
 
 1. Clone the repository:  
-   bash```
+   ```bash
    git clone https://github.com/abelgideon/Pokemon-Search-App.git
-    ```
+   ```
 2. Navigate to the project directory: 
-   bash``` 
+   ```bash 
    cd Pokemon-Search-App
    ```
    
