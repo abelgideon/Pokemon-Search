@@ -1,6 +1,6 @@
 # Pokémon Search Application
 
-This application was built as part of a freeCodeCamp course on JavaScript Algorithms and Data Structures. It allows users to search for detailed information about Pokémon by name or ID, leveraging data from the PokéAPI.
+This application allows users to search for detailed information about Pokémon by name or ID, leveraging data from the PokéAPI.
 
 ## Features
 
